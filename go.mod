@@ -17,7 +17,7 @@ require (
 	github.com/iotaledger/inx-app v1.0.0-rc.3.0.20240419103152-aa12c9f5bd66
 	github.com/iotaledger/inx/go v1.0.0-rc.2.0.20240419095729-912f1c2df45d
 	github.com/iotaledger/iota.go/v4 v4.0.0-20240419095144-054bd7d2ba61
-	github.com/labstack/echo-contrib v0.15.0
+	github.com/labstack/echo-contrib v0.17.0
 	github.com/labstack/echo/v4 v4.11.4
 	github.com/prometheus/client_golang v1.19.0
 	github.com/spf13/pflag v1.0.5
@@ -74,7 +74,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prometheus/client_model v0.6.0 // indirect
 	github.com/prometheus/common v0.50.0 // indirect
-	github.com/prometheus/procfs v0.12.0 // indirect
+	github.com/prometheus/procfs v0.13.0 // indirect
 	github.com/sasha-s/go-deadlock v0.3.1 // indirect
 	github.com/spf13/cast v1.6.0 // indirect
 	github.com/tcnksm/go-latest v0.0.0-20170313132115-e3007ae9052e // indirect
