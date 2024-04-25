@@ -17,7 +17,7 @@ require (
 	github.com/iotaledger/inx-app v1.0.0-rc.3.0.20240425100742-5c85b6d16701
 	github.com/iotaledger/inx/go v1.0.0-rc.2.0.20240425100432-05e1bf8fc089
 	github.com/iotaledger/iota.go/v4 v4.0.0-20240425100055-540c74851d65
-	github.com/labstack/echo-contrib v0.15.0
+	github.com/labstack/echo-contrib v0.17.1
 	github.com/labstack/echo/v4 v4.12.0
 	github.com/prometheus/client_golang v1.19.0
 	github.com/spf13/pflag v1.0.5
